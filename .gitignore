@@ -53,3 +53,32 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+
+
+# Model weights (too large for GitHub)
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Upload/result folders (runtime generated)
+static/uploads/
+static/results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
