@@ -16,10 +16,3 @@ ultralytics
 opencv-python
 pillow
 werkzeug
-
-
-
-ultralytics
-opencv-python
-pillow
-werkzeug
