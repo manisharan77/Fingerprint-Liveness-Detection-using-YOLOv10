@@ -96,19 +96,6 @@ env/
 .ipynb_checkpoints/
 *-checkpoint.ipynb
 
-# Upload/result folders (runtime generated)
-static/uploads/
-static/results/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
-
-# IDE
 .vscode/
 .idea/
 
