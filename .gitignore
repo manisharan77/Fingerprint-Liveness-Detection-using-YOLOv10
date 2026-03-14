@@ -54,19 +54,3 @@ Thumbs.db
 .vscode/
 .idea/
 
-
-
-# Model weights (too large for GitHub)
-*.pt
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
-.env
-venv/
-env/
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-*-checkpoint.ipynb
