@@ -3,6 +3,3 @@ ultralytics
 opencv-python
 pillow
 werkzeug
-
-
-
