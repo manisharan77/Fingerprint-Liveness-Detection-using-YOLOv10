@@ -32,21 +32,6 @@ roboflow:
 
 
 
-  train: ../train/images
-val: ../valid/images
-test: ../test/images
-
-nc: 2
-names: ['fake', 'real']
-
-roboflow:
-  workspace: hi-rzede
-  project: fp-4r2fn
-  version: 3
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/hi-rzede/fp-4r2fn/dataset/3
-
-
 
   url: https://universe.roboflow.com/hi-rzede/fp-4r2fn/dataset/3
 
