@@ -40,22 +40,3 @@ __pycache__/
 venv/
 env/
 
-# Jupyter checkpoints
-.ipynb_checkpoints/
-*-checkpoint.ipynb
-
-# Upload/result folders (runtime generated)
-static/uploads/
-static/results/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
-
-
-
-
