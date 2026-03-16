@@ -172,21 +172,3 @@ static/results/
 .DS_Store
 Thumbs.db
 
-# IDE
-.vscode/
-.idea/
-
-
-
-# Model weights (too large for GitHub)
-*.pt
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
-.env
-venv/
-
-
-
