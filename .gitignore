@@ -29,14 +29,3 @@ Thumbs.db
 
 
 
-# Model weights (too large for GitHub)
-*.pt
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
-.env
-venv/
-env/
-
