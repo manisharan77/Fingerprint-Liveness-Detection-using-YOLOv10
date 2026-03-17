@@ -16,9 +16,3 @@ ultralytics
 opencv-python
 pillow
 werkzeug
-
-flask
-ultralytics
-opencv-python
-pillow
-werkzeug
