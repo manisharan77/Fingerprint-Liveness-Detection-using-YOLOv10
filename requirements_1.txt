@@ -9,11 +9,4 @@ werkzeug
 flask
 ultralytics
 opencv-python
-pillow
-werkzeug
-
-
-
-opencv-python
-pillow
-werkzeug
+p
