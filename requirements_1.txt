@@ -9,4 +9,3 @@ flask
 ultralytics
 opencv-python
 pillow
-wer
