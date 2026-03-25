@@ -21,6 +21,4 @@ flask
 ultralytics
 opencv-python
 pi
-werkzeug
-
-flask
+werkzeu
