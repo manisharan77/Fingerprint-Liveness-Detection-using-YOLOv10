@@ -33,4 +33,3 @@ flask
 ultralytics
 opencv-python
 pillow
-werkz
