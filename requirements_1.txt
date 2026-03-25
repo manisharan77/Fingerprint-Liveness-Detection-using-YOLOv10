@@ -25,4 +25,4 @@ werkzeug
 
 flask
 ultralytics
-openc
+op
