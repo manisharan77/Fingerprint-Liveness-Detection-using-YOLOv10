@@ -25,4 +25,4 @@ werkzeug
 
 flask
 ultralytics
-opencv-python
+openc
