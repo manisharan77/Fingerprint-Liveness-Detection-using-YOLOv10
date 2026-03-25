@@ -27,7 +27,6 @@ flask
 ultralytics
 opencv-python
 pillow
-werkzeug
-
+werkze
 flask
 ultralytics
