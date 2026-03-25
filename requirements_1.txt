@@ -21,4 +21,4 @@ flask
 ultralytics
 opencv-python
 pi
-werkzeu
+wer
