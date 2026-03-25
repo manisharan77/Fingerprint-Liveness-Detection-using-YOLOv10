@@ -28,5 +28,5 @@ ultralytics
 opencv-python
 pillow
 werkze
-flask
+
 ultralytics
