@@ -24,4 +24,4 @@ pi
 werkzeug
 
 flask
-ultralytics
+ultr
