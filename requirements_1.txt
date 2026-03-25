@@ -17,5 +17,5 @@ opencv-python
 pillow
 werkzeug
 
-flask
+
 ultral
