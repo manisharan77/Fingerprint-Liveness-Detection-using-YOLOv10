@@ -20,7 +20,7 @@ werkzeug
 flask
 ultralytics
 opencv-python
-pillow
+pi
 werkzeug
 
 flask
