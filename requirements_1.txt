@@ -6,4 +6,4 @@ werkzeug
 
 flask
 ultralytics
-opencv-python
+opencv-pyt
