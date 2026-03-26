@@ -13,4 +13,3 @@ werkzeug
 
 flask
 ultralytics
-op
