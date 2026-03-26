@@ -6,4 +6,3 @@ werkzeug
 
 flask
 ultralytics
-o
