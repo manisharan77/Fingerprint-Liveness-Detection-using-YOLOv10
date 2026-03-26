@@ -14,4 +14,3 @@ werkzeug
 flask
 ultralytics
 opencv-python
-pi
