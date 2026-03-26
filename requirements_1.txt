@@ -15,4 +15,4 @@ flask
 ultralytics
 opencv-python
 pillow
-werkze
+werkz
