@@ -122,4 +122,4 @@ Dataset provided via [Roboflow Universe](https://universe.roboflow.com/hi-rzede/
 
 
 
-nidcdcipokwpfoeivhnpe nidvsijvisjdnb  n ncsoij ibd faslmani shaysazk mani shara
+nidcdcipokwpfoeivhnpe nidvsijvisjdnb  n ncsoij ibd faslmani shaysazk man
