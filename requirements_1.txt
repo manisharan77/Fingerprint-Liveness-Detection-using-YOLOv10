@@ -8,4 +8,4 @@ werkzeug
 flask
 ultralytic
 opencv-pytho
-pillow
+pillo
