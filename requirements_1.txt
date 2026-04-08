@@ -6,7 +6,7 @@ werkzeug
 
 
 flask
-ultralytics
+ultralytic
 opencv-python
 pillow
 we
