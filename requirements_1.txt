@@ -7,4 +7,4 @@ werkzeug
 
 flask
 ultralyti
-opencv-pyt
+opencv-py
