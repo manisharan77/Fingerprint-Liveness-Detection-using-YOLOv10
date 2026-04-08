@@ -6,6 +6,6 @@ werkzeug
 
 
 flask
-ultralytic
+ultralyti
 opencv-pytho
 pill
