@@ -8,4 +8,4 @@ werkzeug
 flask
 ultralyti
 opencv-pytho
-pill
+pil
