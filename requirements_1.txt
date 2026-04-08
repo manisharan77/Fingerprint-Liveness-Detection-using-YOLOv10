@@ -8,4 +8,3 @@ werkzeug
 flask
 ultralyti
 opencv-pytho
-p
