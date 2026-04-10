@@ -132,6 +132,6 @@ eiib3b3ieb3buebebrhudbdr
 
 iej3ueehh3behejdbebehubrr
 
-ir
+
 jnmanai Sha
 bn
