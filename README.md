@@ -120,6 +120,3 @@ Dataset provided via [Roboflow Universe](https://universe.roboflow.com/hi-rzede/
 
 
 
-
-
-
