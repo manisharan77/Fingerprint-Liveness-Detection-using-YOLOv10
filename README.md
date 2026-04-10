@@ -134,6 +134,6 @@ iej3ueehh3behejdbebehubrr
 kj
 
 irbe
-jnmanai Shara
+jnmanai Sha
 maniwhbw
 bnsm
