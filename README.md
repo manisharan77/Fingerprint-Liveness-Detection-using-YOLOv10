@@ -135,5 +135,5 @@ kj
 
 irbe
 jnmanai Sha
-maniw
+man
 bnsm
