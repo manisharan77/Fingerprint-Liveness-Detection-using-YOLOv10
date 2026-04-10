@@ -135,4 +135,4 @@ kj
 
 irbe
 jnmanai Sha
-bnsm
+bn
