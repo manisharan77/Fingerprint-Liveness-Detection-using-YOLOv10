@@ -4,5 +4,3 @@ opencv-python
 pillow
 werkzeug
 
-ejcccoije
-edniwe
