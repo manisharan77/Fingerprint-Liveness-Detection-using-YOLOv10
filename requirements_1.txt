@@ -5,5 +5,5 @@ pillow
 werkzeug
 
 skj
-sklls
+sk
 ksmk
