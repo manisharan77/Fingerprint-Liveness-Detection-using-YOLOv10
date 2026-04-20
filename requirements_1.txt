@@ -5,5 +5,4 @@ pillow
 werkzeug
 
 jncsd 
-cddkmckd
-cdnm
+cddkmc
