@@ -3,3 +3,9 @@ ultralytics
 opencv-python
 pillow
 werkzeug
+
+jncsd 
+cddkmckd
+cdnmdkcmd
+dc,ldmdc
+cdmkckd
