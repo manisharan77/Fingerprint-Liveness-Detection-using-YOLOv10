@@ -7,5 +7,4 @@ werkzeug
 jncsd 
 cddkmckd
 cdnmdkcmd
-dc,ldmdc
-cdmkckd
+dc,ldmd
